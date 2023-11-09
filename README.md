@@ -18,7 +18,7 @@ My name is Edson Momm, I'm System Analyst and Developer of Java Web Applications
 - 🌱 I’m currently studing for Java Certification
 
 - 🌱 In octoker 2023 I participated in the Bootcamp Code Update TQI at Digital Innovation One (DIO)
-  The study case pronect's can be found at https://github.com/stars/edsonmomm/lists/dio-kotlin-bootcamp
+  The study case pronect's can be found <a href="https://github.com/stars/edsonmomm/lists/dio-kotlin-bootcamp" target="_blank">here</a>.
 
 
 
