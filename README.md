@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**edsonmomm/edsonmomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- **edsonmomm/edsonmomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +10,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+My name is Edson Momm, I'm System Analyst and Developer of Java Web Applications.
+- 🔭 I’m currently working on Java 8 and 11, Spring, Hibernate, Primefaces, Angular, microservices and SQL Server.
+- 🔭 On my previous jobs, also worked with Oracle database, Oracle Forms / Reports, Automation Tests with Quick Test Professional and Visual Studio.
+- 🌱 I’m currently studing for Java Certification
+
+- 🌱 In octoker 2023 I participated in the Bootcamp Code Update TQI at Digital Innovation One (DIO)
+  The study case pronect's can be found at https://github.com/stars/edsonmomm/lists/dio-kotlin-bootcamp
+
+
+
+
